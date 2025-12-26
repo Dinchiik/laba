@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdfdsfdsfdsfsdf<<<<<<< HEAD
 Наташа лучшая
 Dinchiik the best too
@@ -5,3 +6,6 @@ Dinchiik the best too
 =======
 Best
 >>>>>>> 5152344142c6b33055a10e5724fae3edce4f98da
+=======
+Dinchik
+>>>>>>> 4cef46e9168916ffe9de4b16014c7f47d0755275
